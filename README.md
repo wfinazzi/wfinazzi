@@ -29,6 +29,10 @@ Me chamo **Wellington**, tenho 31 anos, moro em Guarulhos/SP e sou apaixonado po
   <img align="left" alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wfinazzi&theme=tokyonight&layout=compact&langs_count=8&custom_title=Linguagens+mais+usadas" />
 </p>
 
+<br/><br/>
+
+---
+
 
 ### 🎸 Sobre Mim — Além do Código
 
