@@ -1,29 +1,51 @@
-<h1 align="center">Oi 👋 , Eu sou o Wellington Almeida</h1>
-<h3 align="center">Sou um Programador Back-End apaizo peloando que faço... </h3>
+# 👋 Olá, eu sou o Wellington Finazzi
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wfinazzi" alt="wfinazzi" /></a> </p>
+**`Desenvolvedor Full-Stack`**
 
-- 🔭 Estou trabalhando atualmente nas **Casas André Luiz**
+Me chamo **Wellington**, tenho 31 anos, moro em Guarulhos/SP e sou apaixonado por tecnologia, música e esportes. Aqui no meu repositório pessoal você vai encontrar projetos que misturam meus interesses: **programação**, **música** (sou guitarrista), **corrida**, **natação** e **análise de apostas esportivas**.
 
-- 🌱 Atualmente estouprendendo a **Vue JS, Flutter**
+---
 
-- 👨 💻 Todos os meus projetos estão disponíveis em [https://github.com/wfinazzi](https://github.com/wfinazzi)
+### 🤖 Linguagens e Tecnologias
 
-- 💬 Gosto de conversar sobre **Filmes, Séries, Rock e Programação**
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Tailwind" title="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-- 📫 Para falar comigo **wellingtonalmeida**
+<br/><br/>
 
-- ⚡ Fatos engraçados **Amo Fórmula 1 e Rock**
+---
 
-<h3 alinhados="esquerda">Conecte comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wellington-almeida-8a0434a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wellington-almeida-8a0434a5/" height="30" width="40" /></a>
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img align="left" alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=wfinazzi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wfinazzi&theme=tokyonight&layout=compact&langs_count=8&custom_title=Linguagens+mais+usadas" />
 </p>
 
-<h3 align="left">Languages and Tools: </h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure largura="40" altura="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt= "bootstrap" largura="40" altura="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="4 "/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href=" https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" largura="40" altura="40"/> </a> <a href="https://flutter.dev " target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_ em branco" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" largura="40" altura="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_ em branco" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" largura="40" altura="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel " largura="40" altura="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql " largura="40" altura="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysq largura"="40" altura="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt=" nodejs" largura="40" altura="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg https://www.php.net alt="php" largura="40" altura="40"/> </a> </p>
 
-<p><img align="esquerda" src="https://github-readme-stats.vercel.app/api/top-langs?username=wfinazzi&show_icons=true&locale=en&layout=compact" alt=" wfinazzi" /></p>
+### 🎸 Sobre Mim — Além do Código
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wfinazzi&show_icons=true&locale=en" alt="wfinazzi" /></p>
+- Toco **guitarra** e participo de shows; meus estilos preferidos vão do rock clássico ao pop moderno.   
+- Sou entusiasta de **automobilismo** e estratégias de **trading esportivo**.
+
+---
+
+### 📫 Como me encontrar
+
+- GitHub: [github.com/wfinazzi](https://github.com/wfinazzi)  
+- LinkedIn: *www.linkedin.com/in/wellington-almeida-8a0434a5*  
+---
+
+Obrigado por visitar o meu perfil! Se quiser trocar ideia sobre código, apostas esportivas, música ou treinos, me manda uma mensagem 😊  
+
+---
+
+> “Programar é meu trabalho. Tocar guitarra é onde respiro. Correr é onde me encontro.”  
 
